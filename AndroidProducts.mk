@@ -1,0 +1,3 @@
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/bpif3.mk
+
+COMMON_LUNCH_CHOICES := bpif3-eng

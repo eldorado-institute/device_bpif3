@@ -1,0 +1,3 @@
+gpu_access(surfaceflinger)
+
+allow surfaceflinger self:process execmem;
